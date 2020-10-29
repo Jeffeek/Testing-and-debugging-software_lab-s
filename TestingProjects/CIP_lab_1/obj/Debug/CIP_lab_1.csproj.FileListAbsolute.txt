@@ -1,0 +1,8 @@
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\profiles.json
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe.config
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.pdb
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csprojAssemblyReference.cache
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csproj.CoreCompileInputs.cache
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.exe
+E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.pdb
