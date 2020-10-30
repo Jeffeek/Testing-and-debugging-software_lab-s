@@ -6,3 +6,11 @@ E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\ob
 E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csproj.CoreCompileInputs.cache
 E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.exe
 E:\projectsVS\GitHub\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.pdb
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\profiles.json
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe.config
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.pdb
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.exe
+C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.pdb
