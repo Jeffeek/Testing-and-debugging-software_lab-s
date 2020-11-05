@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FileWorkersTests.cs" />
+    <Compile Include="GeneralIntegrationFileWorkerTests.cs" />
     <Compile Include="PasswordWorkerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
