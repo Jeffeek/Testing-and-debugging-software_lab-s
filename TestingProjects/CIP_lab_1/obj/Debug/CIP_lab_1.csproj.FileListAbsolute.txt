@@ -14,3 +14,11 @@ C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_l
 C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csproj.CoreCompileInputs.cache
 C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.exe
 C:\Users\misha\source\repos\Testing-and-debugging-software\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.pdb
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\bin\Debug\profiles.json
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe.config
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.exe
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\bin\Debug\CIP_lab_1.pdb
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csprojAssemblyReference.cache
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.exe
+C:\Users\misha\Documents\GitHub\Testing-and-debugging-software_lab-s\TestingProjects\CIP_lab_1\obj\Debug\CIP_lab_1.pdb
