@@ -55,6 +55,7 @@
     <Compile Include="FileWorkersTests.cs" />
     <Compile Include="GeneralIntegrationFileWorkerTests.cs" />
     <Compile Include="PasswordWorkerTests.cs" />
+    <Compile Include="ProfileModelTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
